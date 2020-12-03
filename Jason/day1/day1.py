@@ -1,4 +1,3 @@
-f = open("input.txt", "r")
 target = 2020
 nums = []
 with open('input.txt') as my_file:
